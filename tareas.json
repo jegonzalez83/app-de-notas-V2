@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Declarando variables",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Asignado valores a las variables",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "La diferencia entre var, let y const",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Las constantes",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Una variable de cada tipo",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Esta es una nueva tarea",
+        "estado": "pendiente"
+    }
+]
